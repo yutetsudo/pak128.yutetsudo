@@ -6,6 +6,7 @@ This pak is a modified pak128.japan with more train and tools.
 
 ### v1.0.0
 - [ ] Modify the pak128.japan
+    - [ ] Removing useless stuff
     - [ ] Modify `cityrules.tab`
     - [ ] Rail crossing
     - [ ] English translation

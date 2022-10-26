@@ -1,0 +1,66 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                              Scenario: pak.japan                             #
+#                             Language: en English                             #
+#                                Encoding: ASCII                               #
+#                            Font : Prop-Latin1.bdf                            #
+#                           Date Created: 19.12 2007                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+hashi090
+Bridge
+hashi360
+Bridge
+zuidou130
+Tunnel
+zuidou360
+Tunnel
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+eki101
+Covered platform
+eki191
+Uncovered platform
+eki501
+Freight platform
+eki_kosen_02
+Platform with passenger bridge
+eki_kosen_02_over
+Passenger bridge without platform
+Japan_Temporary_TraninStop
+Temporary stop
+Japan_Temporary_TraninStop_Extension
+Temporary stop extension
+teiryuujo000
+Stop
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+suiden
+Rice paddy
+komesouko
+Rice storage
+sakaya
+Liquor shop
+jouzousho
+Sake brewery
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+CATEGORY_02
+Pallet Freight
+nin
+ 
+genmai
+Raw Rice
+Passagiere
+2nd Class Passenger
+Post
+1st Class Passenger
+Passagierrate
+2nd Class Passenger level
+Postrate
+1st Class Passenger level

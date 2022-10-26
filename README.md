@@ -6,7 +6,7 @@ This pak is a modified [pak128.japan](http://pak128.jpn.org/shoukai.htm.en) with
 
 ### v1.0.0
 - [ ] Modify the pak128.japan
-    - [ ] Modify `simuconf.tab`
+    - [X] Modify `simuconf.tab`
     - [ ] English translation
     - [ ] Removing useless stuff
 - [ ] RailTools

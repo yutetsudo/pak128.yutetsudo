@@ -260,7 +260,7 @@ way_max_bridge_len = 4095
 #
 # other recommended vaule for 64 is 1956
 #
-starting_year = 1960
+starting_year = 1987
 
 ##################################forest stuff#################################
 #  please be careful in changing them, I spent lot of time finding optimals.
